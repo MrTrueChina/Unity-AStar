@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 83d5a2dfd526a6f45a413b42e97e1793
+timeCreated: 1536045647
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _nodeDisplayerPrefab: {fileID: 1040603864092172, guid: b64e4922ad658ae45af98121b4f5b918,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
