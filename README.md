@@ -8,4 +8,12 @@
       内容
     </th>
   </tr>
+  <tr>
+    <td>
+      Assets
+    </td>
+    <td>
+      资源文件
+    </td>
+  </tr>
 </table>
